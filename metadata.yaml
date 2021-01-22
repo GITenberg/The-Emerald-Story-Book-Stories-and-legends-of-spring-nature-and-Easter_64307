@@ -1,5 +1,5 @@
 _repo: The-Emerald-Story-Book-Stories-and-legends-of-spring-nature-and-Easter_64307
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compilers:
   - agent_name: Skinner, Ada M. (Ada Maria)
@@ -12,6 +12,9 @@ contributor:
     birthdate: 1872
     gutenberg_agent_id: '37116'
     url: http://www.gutenberg.org/2009/agents/37116
+covers:
+- cover_type: archival
+  image_path: 64307-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64307#The-Emerald-Story-Book-Stories-and-legends-of-spring-nature-and-Easter
 gutenberg_issued: '2021-01-16'
 gutenberg_type: Text
 identifiers:
